@@ -1,5 +1,5 @@
 # Eigenvalues & Eigenvectors – Understanding Matrix Transformations Visually
-**Course:** Linear Algebra and Calculus (M3) – Internal Assessment (Project Option 1)  
+**Course:** Linear Algebra and Calculus (M3) – Internal Assessment 
 **Student Name:** Dhruvil Kamlesh Shah  
 **URN No.:** E25B070661  
 
